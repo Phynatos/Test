@@ -2,7 +2,11 @@
 
 int main() {
   //changed comment
-  cout << "Test" << endl;
+  cout <<  "Test" << endl;
   return 0;
+<<<<<<< HEAD
 	//test
+=======
+  
+>>>>>>> origin/developement
 }
